@@ -35,6 +35,7 @@ The meaning of the characters follow:
 ## Sample image
 
 __Maze, path and the found tracks__
+
 ![Maze, path and found tracks](SampleImage/SampleImage.png)
 
 

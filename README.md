@@ -42,6 +42,6 @@ __Maze, path and the found tracks__
 ## Technical information
 
 - __Platform__: Linux and Windows (not tested)
-- __Used libraries__: OpenGL, glut, Boost
+- __Used libraries__: OpenGL and glut
 - __Programming language__: C++
 - __Last code change__: 01/22/2019
